@@ -5,7 +5,7 @@ body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-
 
 body, html {height: 100%;}
 
-.wrapper {box-sizing: border-box; background: #000; box-shadow: 0 0 5px #888; box-shadow: 0 0 5px #888; height: 100%; overflow: auto; }
+.wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
@@ -26,4 +26,4 @@ hr {border-bottom: 3px solid #0068FF;}
 .inline-list li {display: inline-block;}
 
 footer .inline-list li {padding-right: 40px;}
-footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width: 600px;}
+footer {margin: 0 auto; position: absolute; top-right: 0px; padding: 40px 0; width: 600px;}
